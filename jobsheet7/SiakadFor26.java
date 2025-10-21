@@ -20,7 +20,9 @@ public class SiakadFor26 {
         }
         System.out.println("Nilai Tertinggi :" + tertinggi);
         System.out.println("Nilai Terendah :"+ terendah);
-        
+
+        sc.close();
     }
     
 }
+
