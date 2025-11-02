@@ -29,7 +29,7 @@ public class SiakadFor26 {
         System.out.println("Nilai Terendah :"+ terendah); 
         System.out.println("Jumlah Siswa yang lulus: " + lulus);
         System.out.println("Jumlah Siswa yang Tidak lulus:" + tidaklulus);
-
+        
         sc.close();
     }
     
